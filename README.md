@@ -1,3 +1,5 @@
+# HTML / JS connect contract
+
 HTML / JS
 NextJS / React and "raw" ethers
 NextJS & "web3-react"

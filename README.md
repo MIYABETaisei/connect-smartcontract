@@ -1,8 +1,7 @@
 # HTML / JS connect contract
 
-HTML / JS
-NextJS / React and "raw" ethers
-NextJS & "web3-react"
-NextJS & "react-moralis"
-NextJS & "web3Modal"
-NextJS & "useDapp"
+## Contract
+
+```bash
+git clone https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
+```
